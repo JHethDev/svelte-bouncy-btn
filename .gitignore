@@ -1,4 +1,10 @@
 /node_modules/
+/.firebase/
 /public/build/
 
 .DS_Store
+
+.firebaserc
+.prettierrc
+firebase.json
+public/config.js
