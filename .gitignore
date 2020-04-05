@@ -4,7 +4,7 @@
 
 .DS_Store
 
-.firebaserc
-.prettierrc
-firebase.json
+/.firebaserc
+/.prettierrc
+/firebase.json
 public/config.js
