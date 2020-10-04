@@ -103,6 +103,7 @@
     -ms-user-select: none;
     user-select: none;
     -webkit-tap-highlight-color: transparent;
+    outline: none;
   }
   button:hover {
     background-color: transparent;
